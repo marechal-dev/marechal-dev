@@ -22,7 +22,7 @@ My dream is to become a Game Programmer!
 * **Living in**: Rio Grande, Rio Grande do Sul, Brasil.
 * **Stack**: Nodejs - HTML - CSS - MongoDB - Handlebars - Bootstrap
 * **Elementary and High School**: [Colégio Sagrado Coração de Jesus](https://www.facebook.com/colegiosagradorg/).
-* **University**: 1st Semester of Information Systems at FURG.
+* **University**: 1st Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
 * **Online Courses**: Studying at LaunchBase, RocketSeat.
 
 # Curiosities about me
@@ -42,3 +42,4 @@ My dream is to become a Game Programmer!
 # Contact
 * **Emails**: pietro@bytejr.com | marshallpi35@gmail.com
 * **Discord**: Marshall Pi#7229
+* **Telegram**: @Marshall_Pi
