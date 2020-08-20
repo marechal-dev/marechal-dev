@@ -3,9 +3,6 @@
 
 # Hi!
 
-# This is me :point_down:
-![This is me :D](https://avatars2.githubusercontent.com/u/47929247?s=460&u=e8cde000f2b4d6698f936c74c865ba9e2f9d8fdd&v=4 "Pietro Piva Vieira")
-
 # Public Information
 My name is Pietro Piva Vieira. I currently live in Rio Grande, Rio Grande do Sul, Brazil and my work is to code some web applications at Byte Jr.
 I'm on the 1st semester of Information Systems at FURG (Universidade Federal do Rio Grande).
