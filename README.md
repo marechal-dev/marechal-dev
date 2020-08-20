@@ -25,7 +25,7 @@ My dream is to become a Game Programmer!
 # Curiosities about me
 * I collect all my beloved videogames that i earned from my parents along my life, it's like a treasure for me! I have an PS2, an PS3, an PSP, an Nintendo Wii, an Xbox 360 and a Xbox One(currently playing this one)!
 * I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country...(When i said every type, i mean really every type XD).
-* I'm a Udyr Main at League of Legends, Lúcio Main at Overwatch and Tachanka Main at Rainbow Six Siege.
+* I'm used to be Udyr Main at League of Legends, Lúcio Main at Overwatch and Tachanka Main at Rainbow Six Siege.
 * I started coding with **Arduino** at an High School course, which i loved so much!
 * I first met Web Programming at OmniStack Week 8.0 at RocketSeat.
 * I really like to help and teach people!
