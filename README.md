@@ -26,7 +26,7 @@ My dream is to become a Game Programmer!
 * **On Web**: JavaScript, HTML, CSS, NodeJS
 * **The Basics**: C and Python
 
-# Futere studies:
+# Future studies:
 * **On Web**: React
 * **On Mobile**: React Native
 * **Games**: GML, C#, C++, Blueprints
