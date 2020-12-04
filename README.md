@@ -42,10 +42,10 @@ My dream is to become a Game Programmer!
 # Links
 * [My Spotify Playlist](https://open.spotify.com/playlist/5oHIpeFo7RO0zfhSiTk0NA?si=oQHWKDjOSLGklACp9_R9bA)
 * [My Linkedin](https://www.linkedin.com/in/pietro-vieira/)
-* [My Twitter](https://twitter.com/Marshall__Pi)
-* [My Instagram](https://www.instagram.com/marshall_pi/)
+* [My Twitter](https://twitter.com/marechal_dev)
+* [My Instagram](https://www.instagram.com/marechal.dev/)
 
 # Contact
 * **Emails**: pietro@bytejr.com | marshallpi35@gmail.com
-* **Discord**: Marshall Pi#7229
-* **Telegram**: @Marshall_Pi
+* **Discord**: Marechal#3500
+* **Telegram**: @Marechal_Dev | [Clique aqui](https://t.me/Marechal_Dev)
