@@ -19,7 +19,6 @@ My dream is to become a Game Programmer!
 * **Name**: Pietro Piva Vieira
 * **Age**: 19
 * **Living in**: Rio Grande, Rio Grande do Sul, Brasil.
-* **Stack**: Nodejs - HTML - CSS - MongoDB - Handlebars - Bootstrap
 * **Elementary and High School**: [Colégio Sagrado Coração de Jesus](https://www.facebook.com/colegiosagradorg/).
 * **University**: 1st Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
 * **Online Courses**: Studying at LaunchBase at RocketSeat. | Studying Game Development at Danki Code.
