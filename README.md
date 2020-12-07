@@ -7,7 +7,7 @@ My name is Pietro Piva Vieira. I currently live in Rio Grande, Rio Grande do Sul
 I'm on the 1st semester of Information Systems at FURG (Universidade Federal do Rio Grande).
 
 On my free time, i like to play some games like Sea of Thieves, Red Dead Online, DOOM Eternal, The Division 2 and League of Legends.
-I also stream sometimes at [my Twitch Channel](https://www.twitch.tv/marechal_dev). I like to stream Live coding and gameplay at weekend.
+I also stream sometimes at [my Twitch Channel](https://www.twitch.tv/marechal_dev). I like to stream Live Coding and Gameplays.
 
 At my week days i like to study JavaScript, HTML and CSS and some other things, like Games Programming!
 My dream is to become a Game Programmer!
