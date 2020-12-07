@@ -21,6 +21,9 @@ My dream is to become a Game Programmer!
 * **University**: 1st Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
 * **Online Courses**: Studying at LaunchBase at RocketSeat. | Studying Game Development at Danki Code.
 
+#### Now playing on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&redirect=true)
 
 #### 🖊 I Used to code in:
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
