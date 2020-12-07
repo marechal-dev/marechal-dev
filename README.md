@@ -58,4 +58,4 @@ My dream is to become a Game Programmer!
 # Contact
 * **Emails**: pietro@bytejr.com | marshallpi35@gmail.com
 * **Discord**: Marechal#3500
-* **Telegram**: @Marechal_Dev | [Clique aqui](https://t.me/Marechal_Dev)
+* **Telegram**: [@Marechal_Dev](https://t.me/Marechal_Dev)
