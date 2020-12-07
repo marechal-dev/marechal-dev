@@ -12,6 +12,9 @@ I also stream sometimes at **my Twitch Channel**. I like to stream Live Coding a
 At my week days i like to study JavaScript, HTML and CSS and some other things, like Games Programming!
 My dream is to become a Game Programmer!
 
+#### Stats
+![marechal-dev github stats](https://github-readme-stats.vercel.app/api?username=marechal-dev&show_icons=true&theme=synthwave)
+
 #### 💬 Detailed information            
 * **Name**: Pietro Piva Vieira
 * **Age**: 19
