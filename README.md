@@ -63,7 +63,7 @@ My dream is to become a Game Programmer!
 * I really like to help and teach people!
 
 #### 🌍 Links
-<a href="https://www.twitch.tv/marechal_dev" target="_blank"><img src="https://img.shields.io/badge/<marechal_dev>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+<a href="https://www.twitch.tv/marechal_dev" target="_blank"><img src="https://img.shields.io/badge/marechal_dev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pietro-vieira/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/marechal_dev" target="_blank"><img src="https://img.shields.io/badge/marechal_dev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/marechal.dev/" target="_blank"><img src="https://img.shields.io/badge/marechal.dev%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
