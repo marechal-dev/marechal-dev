@@ -22,6 +22,8 @@ My dream is to become a Game Programmer!
 * **University**: 1st Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
 * **Online Courses**: Studying at LaunchBase, RocketSeat.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&redirect=true)
+
 # Studying:
 * **On Web**: JavaScript, HTML, CSS, NodeJS
 * **The Basics**: C and Python
