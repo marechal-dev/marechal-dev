@@ -12,6 +12,8 @@ I also stream sometimes at **my Twitch Channel**. I like to stream Live Coding a
 At my week days i like to study JavaScript, HTML and CSS and some other things, like Game Development!
 My dream is to become a Game Programmer!
 
+One of my passions is to learn and teach other people to code.
+
 #### 💬 Detailed information            
 * **Name**: Pietro Piva Vieira
 * **Age**: 19
