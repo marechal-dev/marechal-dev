@@ -25,6 +25,8 @@ One of my passions is to learn and teach other people to code.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&redirect=true)
 
+[My Spotify Playlist](https://open.spotify.com/playlist/5oHIpeFo7RO0zfhSiTk0NA?si=0xYuD6HMSDutpdqcJwWgRw)
+
 #### 🖊 I Used to code in
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
