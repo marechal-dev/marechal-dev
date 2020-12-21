@@ -69,6 +69,6 @@ One of my passions is to learn and teach other people to code.
 <a href="https://www.instagram.com/marechal.dev/" target="_blank"><img src="https://img.shields.io/badge/marechal.dev%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 #### 📫 Contact
-* **Emails**: pietro@bytejr.com | marshallpi35@gmail.com
+* **Emails**: pietro@bytejr.com | pietro.developer@gmail.com
 * **Discord**: Marechal#3500
 * **Telegram**: [@Marechal_Dev](https://t.me/Marechal_Dev)
