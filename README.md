@@ -3,7 +3,7 @@
 ### Hi! 👋
 
 #### ℹ️ Bio
-My name is Pietro Piva Vieira. I currently live in Rio Grande, Rio Grande do Sul, Brazil and my work is to code some web applications at Byte Jr.
+My name is Pietro Piva Vieira. I currently live in Rio Grande, Rio Grande do Sul, Brazil and my work is to manage all projects at Byte Jr.
 I'm on the 1st semester of Information Systems at FURG (Universidade Federal do Rio Grande).
 
 On my free time, i like to play some games like Sea of Thieves, Red Dead Online, DOOM Eternal, The Division 2 and League of Legends.
