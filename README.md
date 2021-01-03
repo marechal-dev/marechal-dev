@@ -23,7 +23,7 @@ One of my passions is to learn and teach other people to code.
 
 #### 🎶 Now playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 * [My Spotify Playlist](https://open.spotify.com/playlist/5oHIpeFo7RO0zfhSiTk0NA?si=lmUtxfFcTlileY9RZg_Lug)
 
