@@ -19,7 +19,7 @@ One of my passions is to learn and teach other people to code.
 * **Age**: 19
 * **Living in**: Rio Grande, Rio Grande do Sul, Brasil.
 * **Elementary and High School**: [Colégio Sagrado Coração de Jesus](https://www.facebook.com/colegiosagradorg/).
-* **University**: 1st Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
+* **University**: 2nd Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
 
 #### 🎶 Now playing on Spotify
 
