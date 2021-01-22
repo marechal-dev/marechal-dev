@@ -27,7 +27,7 @@ My passion is to learn and teach other people to code.
 
 * [My Spotify Playlist](https://open.spotify.com/playlist/5oHIpeFo7RO0zfhSiTk0NA?si=lmUtxfFcTlileY9RZg_Lug)
 
-#### 🖊 I Used to code in
+#### 🖊 Used to code in
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
 #### 👨‍💻 Using daily
