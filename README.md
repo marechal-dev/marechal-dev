@@ -21,7 +21,7 @@ My passion is to learn and teach other people to code.
 * **Elementary and High School**: [Colégio Sagrado Coração de Jesus](https://www.facebook.com/colegiosagradorg/).
 * **University**: 2nd Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
 
-#### 🎶 Now playing on Spotify
+#### 🎶 Now playing/Recently played on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
