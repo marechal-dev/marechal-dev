@@ -3,7 +3,7 @@
 #### ℹ️ Bio
 
 My name is Pietro Piva Vieira. I currently live in Rio Grande, Rio Grande do Sul, Brazil and my work is to develop websites at H.a.N.D.
-I'm on the 3rd semester of Information Systems at FURG (Universidade Federal do Rio Grande).
+I'm on the 4th semester of Information Systems at FURG (Universidade Federal do Rio Grande).
 
 On my free time, i like to play some games, listen to some musics and enjoy some time with my girlfriend and my family.
 I often stream at my Twitch Channel. I like to stream Live Coding and Gameplays.
