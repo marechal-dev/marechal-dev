@@ -15,10 +15,10 @@ My passion is to learn and teach other people to code.
 #### 💬 Detailed information
 
 * **Name**: Pietro Piva Vieira
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Rio Grande, Rio Grande do Sul, Brasil.
 * **Elementary and High School**: [Colégio Sagrado Coração de Jesus](https://www.facebook.com/colegiosagradorg/).
-* **University**: 3rd Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
+* **University**: 4th Semester of [Information Systems at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318).
 
 #### 🎶 Now playing/Recently played on Spotify
 
