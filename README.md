@@ -5,10 +5,10 @@
 My name is Pietro Piva Vieira. I currently live in Rio Grande, Rio Grande do Sul, Brazil and my work is to develop websites at H.a.N.D.
 I'm on the 4th semester of Information Systems at FURG (Universidade Federal do Rio Grande).
 
-On my free time, i like to play some games, listen to some musics and enjoy some time with my girlfriend and my family.
+On my free time, I like to play some games, listen to some musics and enjoy some time with my girlfriend and my family.
 I often stream at my Twitch Channel. I like to stream Live Coding and Gameplays.
 
-At my week days i like to study JavaScript, TypeScript, C, C++, Math, Physics and Computer Science related topics.
+At my week days I like to study JavaScript, TypeScript, C, C++, Math, Physics and Computer Science related topics.
 
 My passion is to learn and teach other people to code.
 
@@ -55,9 +55,9 @@ My passion is to learn and teach other people to code.
 #### ✨ Curiosities about me
 
 * I really like to help and teach people!
-* I collect all my beloved videogames that i earned from my parents along my life, it's like a treasure for me! I have an PS2, an PS3, an PSP, an Nintendo Wii, an Xbox 360 and a Xbox One!
-* I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country...(When i said every type, i mean really every type XD).
-* I started coding with **Arduino** at an High School course, which i loved so much!
+* I collect all my beloved videogames that I earned from my parents along my life, it's like a treasure for me! I have an PS2, an PS3, an PSP, an Nintendo Wii, an Xbox 360 and a Xbox One!
+* I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country...(When I said every type, I mean really every type XD).
+* I started coding with **Arduino** at an High School course, which I loved so much!
 
 #### 🌍 Links
 
