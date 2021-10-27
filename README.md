@@ -58,12 +58,6 @@
 </a>
 <a href="mailto:pietro.developer@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<img 
-  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"
-  title="Marechal Dev#3500"
-/>
+</a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Marechal Dev#3500" />
 
 ---
-
-
