@@ -6,11 +6,11 @@
 * **Age**: 20
 * **Living in**: Rio Grande, Rio Grande do Sul, Brasil
 * **Hobbies**: Play videogames, watch animes, study Math, Physics and Computer Science related topics
-* **University**: 4th Semester of [Information Systems Bachelor Degree at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318) (Computer Science field).
+* **University**: 4th Semester of [Information Systems Bachelor Degree at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318) (Computer Science field)
 
 ### ✨ Curiosities about me
 * I really like to help and teach people!
-* I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country...(When I said every type, I mean really every type XD).
+* I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country...(When I said every type, I mean really every type XD)
 * I started coding with **Arduino** at a High School course, which I loved so much!
 
 ### 📈 Stats
