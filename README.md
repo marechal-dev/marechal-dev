@@ -61,3 +61,6 @@
 </a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Marechal Dev#3500" />
 
 ---
+
+#### Thanks for visiting!
+![](https://media.giphy.com/media/j65n85RPrVQlhbLQel/giphy.gif)
