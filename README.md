@@ -1,11 +1,4 @@
-<div 
-  style="display: flex; flex-direction: row; justify-content: center; align-items: center;"
->
-  <img src="images/sonic_waving.gif" width="80px" />
-  <h2>My name is Pietro 👋</h2> 
-</div>
-
----
+<h1 align="center" ><img src="images/sonic_waving.gif" width="70px" /> My name is Pietro 👋</h1>
 
 ### 💬 About me
 * **Full Name**: Pietro Piva Vieira
@@ -26,25 +19,15 @@
 ---
 
 ### 🎶 Now playing/Recently played on Spotify
-<div
-  style="display: flex; flex-direction: row; justify-content: center;"
->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=piva-pietro2014&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-  <div style="padding-left: 10%;">
-
-  #### 🎧 My playlists
-  * [General Playlist](https://open.spotify.com/playlist/5oHIpeFo7RO0zfhSiTk0NA?si=49092d78ef2d4b7d)
-  * [80's and 90's Japanese City Pop Playlist](https://open.spotify.com/playlist/6CR4mfSweBtIYvvukudwpF?si=69596a1992114493)
-  * [HoloLive Songs Playlist](https://open.spotify.com/playlist/6csEBi6H2LSRUIF986dETl?si=1390c36544ba47a7)
-  * [Brazilian Bloomer Playlist](https://open.spotify.com/playlist/4tN4Cz4HUiaFglFP4mRBwf?si=94eb80e02bab491e)
-  * [Sea Shanties Playlist](https://open.spotify.com/playlist/1s6FKwe3LB4iN52kb2kCiT?si=e7970a795c444bb8)
-  * [Russian Hardbass Playlist](https://open.spotify.com/playlist/6ZiVPzU9mdgrAYV6wLDnxk?si=b768cb3443c44c35)
-
-  </div>
-
-</div>
+#### 🎧 My playlists
+* [General Playlist](https://open.spotify.com/playlist/5oHIpeFo7RO0zfhSiTk0NA?si=49092d78ef2d4b7d)
+* [80's and 90's Japanese City Pop Playlist](https://open.spotify.com/playlist/6CR4mfSweBtIYvvukudwpF?si=69596a1992114493)
+* [HoloLive Songs Playlist](https://open.spotify.com/playlist/6csEBi6H2LSRUIF986dETl?si=1390c36544ba47a7)
+* [Brazilian Bloomer Playlist](https://open.spotify.com/playlist/4tN4Cz4HUiaFglFP4mRBwf?si=94eb80e02bab491e)
+* [Sea Shanties Playlist](https://open.spotify.com/playlist/1s6FKwe3LB4iN52kb2kCiT?si=e7970a795c444bb8)
+* [Russian Hardbass Playlist](https://open.spotify.com/playlist/6ZiVPzU9mdgrAYV6wLDnxk?si=b768cb3443c44c35)
 
 ---
 
