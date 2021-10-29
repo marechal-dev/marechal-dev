@@ -1,4 +1,4 @@
-<h1 align="center"><img src="images/sonic_waving.gif" width="70px" />My name is Pietro 👋</h1>
+<h1 align="center"><img src="images/sonic_waving.gif" width="70px" alt="Sonic waving and saying hi"/>My name is Pietro 👋</h1>
 
 ### 💬 About me
 * **Full Name**: Pietro Piva Vieira
@@ -12,6 +12,9 @@
 * I really like to help and teach people!
 * I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country...(When I said every type, I mean really every type XD)
 * I started coding with **Arduino** at a High School course, which I loved so much!
+
+### 📖 Wanna study or check out what I'm studying?
+* No problem! Take a look at my [Studies Notion](https://marechal-dev.notion.site/Estudos-583e27c2e37944b7ab07de8b170c8568) (Brazilian Portuguese). It's free and open!
 
 ### 📈 Stats
 ![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=marechal-dev&show_icons=true&theme=synthwave)
@@ -62,5 +65,7 @@
 
 ---
 
-#### Thanks for visiting!
-![](https://media.giphy.com/media/j65n85RPrVQlhbLQel/giphy.gif)
+<div align="center">
+  <h3>🤝 Thanks for visiting!</h3>
+  <img src="https://media.giphy.com/media/j65n85RPrVQlhbLQel/giphy.gif" alt="Sonic running"/>
+</div>
