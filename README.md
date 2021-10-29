@@ -43,7 +43,7 @@
 ### 📚 Things I'm studying
 * Object Oriented Programming
 * Algorithms and Data Structures (reviewing)
-* Discrete Mathemetics
+* Discrete Mathematics
 * Calculus
 
 ### 🔖 Things I want to study
