@@ -19,8 +19,6 @@
 ### 📈 Stats
 ![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=marechal-dev&show_icons=true&theme=synthwave)
 
-### 🔼 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marechal-dev&layout=compact)
 ---
 
 ### 🎶 Now playing/Recently played on Spotify
