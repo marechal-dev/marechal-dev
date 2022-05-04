@@ -6,7 +6,7 @@
 * **Age**: 20
 * **Living in**: Rio Grande, Rio Grande do Sul, Brasil
 * **Hobbies**: Play videogames, watch animes, study Math, Physics and Computer Science related topics
-* **University**: 4th Semester of [Information Systems Bachelor Degree at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318) (Computer Science field)
+* **University**: 5th Semester of [Information Systems Bachelor Degree at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318) (Computer Science field)
 
 ### ✨ Curiosities about me
 * I really like to help and teach people!
