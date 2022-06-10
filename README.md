@@ -1,4 +1,4 @@
-<img src="images/sonic_waving.gif" heigth="70px" alt="Sonic waving and saying hi"/>
+<p align="center"><img src="images/sonic_waving.gif" heigth="70px" alt="Sonic waving and saying hi"/></p>
 <h1 align="center">My name is Pietro 👋</h1>
 
 ### 💬 About me
