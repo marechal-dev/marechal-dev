@@ -1,4 +1,5 @@
-<h1 align="center"><img src="images/sonic_waving.gif" heigth="70px" alt="Sonic waving and saying hi"/>My name is Pietro 👋</h1>
+<img src="images/sonic_waving.gif" heigth="70px" alt="Sonic waving and saying hi"/>
+<h1 align="center">My name is Pietro 👋</h1>
 
 ### 💬 About me
 * **Full Name**: Pietro Piva Vieira
