@@ -1,4 +1,4 @@
-<h1 align="center">My name is Pietro 👋</h1>
+<h1 align="center">👋 Hi! My name is Pietro</h1>
 
 ### 💬 About me
 * **Full Name**: Pietro Piva Vieira
