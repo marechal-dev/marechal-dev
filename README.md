@@ -6,7 +6,7 @@
 * **Age**: 20
 * **Living in**: Rio Grande, Rio Grande do Sul, Brasil
 * **Hobbies**: Play videogames, watch animes, study Math, Physics and Computer Science related topics
-* **University**: 5th Semester of [Information Systems Bachelor Degree at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*318) (Computer Science field)
+* **University**: 5th Semester of [Information Systems Bachelor Degree at FURG](https://sistemas.furg.br/sistemas/paginaFURG/publico/bin/cursos/tela_qsl_visual.php?cd_curso=252*845) (Computer Science field)
 
 ### ✨ Curiosities about me
 * I really like to help and teach people!
@@ -43,8 +43,6 @@
 ### 📚 Things I'm studying
 * Object Oriented Programming
 * Algorithms and Data Structures (reviewing)
-* Discrete Mathematics
-* Calculus
 
 ### 🔖 Things I want to study
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -61,7 +59,7 @@
 </a>
 <a href="mailto:pietro.developer@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Marechal Dev#3500" />
+</a>
 
 ---
 
