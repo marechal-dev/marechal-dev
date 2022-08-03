@@ -10,7 +10,7 @@
 
 ### ✨ Curiosities about me
 * I really like to help and teach people!
-* I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country...(When I said every type, I really meant every type XD)
+* I like literally every type of music! Rock, Heavy Metal, Brazilian Funk, MPB, Pop, Reggae, Jazz, Blues, Rap, Trap, Country... (When I said every type, I really meant every type XD)
 * I started my CS journey with **Arduino** at High School, which I loved so much!
 
 ### 📖 Wanna study or check out what I'm studying?
