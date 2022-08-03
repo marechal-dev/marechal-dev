@@ -17,7 +17,7 @@
 * No problem! Take a look at my [Studies Notion](https://marechal-dev.notion.site/Self-Studies-583e27c2e37944b7ab07de8b170c8568) (Brazilian Portuguese). It's free and open!
 * Also, take a look at my Udemy profile:
 <a href="https://www.udemy.com/user/pietro-piva-vieira" target="_blank">
-  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Profile"/>
 </a>
 
 ---
