@@ -90,18 +90,6 @@
 ### 🤔 Things I'm learning
 
 <details>
-  <summary>📱 Mobile Development Tools and Frameworks</summary>
-
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</details>
-
-<details>
-  <summary>🗃 Databases</summary>
-
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-</details>
-
-<details>
   <summary>☁ Cloud Platforms</summary>
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
