@@ -6,8 +6,8 @@
 - **Nickname**: Marechal Dev
 - **Age**: 21
 - **Living in**: Rio Grande, Rio Grande do Sul, Brasil
-- **Hobbies**: Play videogames, watch anime
-- **University**: 7th Semester of [Information Systems Bachelor Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
+- **Hobbies**: Play videogames, watch animes, read various books
+- **University**: 7th Semester of my [Information Systems Bachelor of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
 
 ### ✨ Curiosities about me
 
