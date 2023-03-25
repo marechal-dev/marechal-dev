@@ -9,7 +9,9 @@
 - **Hobbies**: Play videogames, watch animes, read various books
 - **University**:
   - On the 7th Semester of my [Information Systems Bachelor of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
-  <!-- - Specialization on .NET Systems Architecture with Azure at FIAP --->
+    <!-- - On the 1st Semester of my [Applied Mathematics Bachelor of Science Degree at FURG (with emphasis on Graphics Processing)](https://www.furg.br/en/undergraduate-studies/applied-mathematics) --->
+    <!-- - [Specialization on .NET Systems Architecture with Azure at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) --->
+    <!-- - [FullCycle Architecture MBA](https://mba.fullcycle.com.br/mba/) --->
 
 ### ✨ Curiosities about me
 
