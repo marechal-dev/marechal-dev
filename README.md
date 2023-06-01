@@ -7,7 +7,7 @@
 - **Age**: 21
 - **Living in**: Rio Grande, Rio Grande do Sul, Brail
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
-- **University**:
+- **Education**:
   - On the 7th Semester of my [Information Systems Bachelors of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
     <!--- - On the 1st Semester of my [Software Engineering Professional Masters Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/) -->
     <!--- - On the 1st Semester of my [Applied Mathematics Bachelors of Science Degree at FURG (with emphasis on Graphics Processing)](https://www.furg.br/en/undergraduate-studies/applied-mathematics) --->
