@@ -5,7 +5,7 @@
 - **Full Name**: Pietro Piva Vieira
 - **Nickname**: Marechal Dev
 - **Age**: 21
-- **Living in**: Rio Grande, Rio Grande do Sul, Brail
+- **Living in**: Rio Grande, Rio Grande do Sul, Brazil
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
 - **Education**:
   - On the 7th Semester of my [Information Systems Bachelors of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
