@@ -8,11 +8,12 @@
 - **Living in**: Rio Grande, Rio Grande do Sul, Brazil
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
 - **Education**:
-  - On the 7th Semester of my [Information Systems Bachelors of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
-  - On the 1st Semester of my [Software Engineering Professional Masters Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
+  - On the **last** Semester of my [Information Systems Bachelor's of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
+  - On the 1st Semester of my [Software Engineering Professional Master's Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
     <!--- - On the 1st Semester of my [Applied Mathematics Bachelors of Science Degree at FURG (with emphasis on Graphics Processing)](https://www.furg.br/en/undergraduate-studies/applied-mathematics) --->
     <!--- - [Specialization on .NET Systems Architecture with Azure at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) --->
-    <!--- - [FullCycle Architecture MBA](https://mba.fullcycle.com.br/mba/) --->
+    <!--- - [Specialization in Golang at FullCycle](https://mba.fullcycle.com.br/mba/) --->
+    <!--- - [FullCycle Architecture MBA at FullCycle](https://mba.fullcycle.com.br/mba/) --->
 
 ### ✨ Curiosities about me
 
