@@ -3,22 +3,26 @@
 ### 💬 About me
 
 - **Full Name**: Pietro Piva Vieira
-- **Nickname**: Marechal Dev
-- **Age**: 21
-- **Living in**: Rio Grande, Rio Grande do Sul, Brazil
+- **Nickname**: Marechal Dev, Marechal or Marshall
+- **21 years old**
+- **Based in**: Brazil
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
 - **Education**:
   - On the **last** Semester of my [Information Systems Bachelor's of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
   - On the 1st Semester of my [Software Engineering Professional Master's Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
-    <!--- - On the 1st Semester of my [Applied Mathematics Bachelors of Science Degree at FURG (with emphasis on Graphics Processing)](https://www.furg.br/en/undergraduate-studies/applied-mathematics) --->
     <!--- - [Specialization on .NET Systems Architecture with Azure at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) --->
-    <!--- - [Specialization in Golang at FullCycle](https://mba.fullcycle.com.br/mba/) --->
+    <!-- - On the 1st Semester of my [Computer Science PHD at UFRGS](https://www.inf.ufrgs.br/ppgc/en/doctorate) --->
+    <!--- - On the 1st Semester of my [Applied Mathematics Bachelors of Science Degree at FURG (with emphasis on Graphics Processing)](https://www.furg.br/en/undergraduate-studies/applied-mathematics) --->
     <!--- - [FullCycle Architecture MBA at FullCycle](https://mba.fullcycle.com.br/mba/) --->
 
 ### ✨ Curiosities about me
 
 - I really like to help and teach people!
 - I started my CS journey with **Arduino** at High School, which I loved a lot!
+- I love the academic environment!
+- I also love the industry of software!
+- My main life goal is to become an University Professor at some point (after some years in the industry of software)
+- I really like Distributed Systems
 
 ### 📢 We can talk about
 
@@ -32,9 +36,8 @@
 - 📦 Microservices
 - 🖥 Front-End Development
 - 📱 Mobile Development
-- 🎮 Game Development
-- 🧪 Math, Physics, Statistics and Probability
-- 📊 Data Science & Data Visualization
+- 🧪 Math and Physics
+- 📊 Data Visualization
 
 ---
 
@@ -115,7 +118,7 @@
 <details>
   <summary>☁ Cloud Platforms</summary>
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </details>
 
@@ -147,10 +150,10 @@
 ### 📫 Contact me!
 
 <a href="https://www.linkedin.com/in/pietro-vieira/" target="_blank"> 
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn profile" /> 
 </a>
 <a href="mailto:pietro.developer@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Professional E-Mail" />
 </a>
 
 ---
