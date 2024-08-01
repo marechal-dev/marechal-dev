@@ -9,12 +9,11 @@
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
 - **Education**:
   - Graduated in [Information Systems Bachelor's of Science Degree at FURG](https://www.furg.br/en/undergraduate-studies/information-system)
-  - On the 1st Semester of my [Software Engineering Professional Master's Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
-    <!-- - On the 1st Semester of my [Computer Science PHD at UFRGS](https://www.inf.ufrgs.br/ppgc/en/doctorate) -->
-    <!-- - [Specialization on .NET Systems Architecture with Azure at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) -->
-    <!-- - On the 1st Semester of my [Applied Mathematics Bachelors of Science Degree at FURG (with emphasis on Graphics Processing)](https://www.furg.br/en/undergraduate-studies/applied-mathematics) -->
-    <!-- - [FullCycle Architecture MBA at FullCycle](https://mba.fullcycle.com.br/mba/) -->
+  - On the 2nd Semester of my [Software Engineering Professional Master's Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
+    <!-- - On the 1st Semester of my [Computer Science PhD Degree at UFRGS](https://www.inf.ufrgs.br/ppgc/en/doctorate) -->
     <!-- - [GoExpert Professional Specialization at FullCycle](https://goexpert.fullcycle.com.br/pos-goexpert/) -->
+    <!-- - [Specialization on .NET Systems Architecture with Azure at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) -->
+    <!-- - [FullCycle Architecture MBA at FullCycle](https://mba.fullcycle.com.br/mba/) -->
 
 ### ✨ Curiosities about me
 
