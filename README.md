@@ -3,16 +3,16 @@
 ### 💬 About me
 
 - **Full Name**: Pietro Piva Vieira
-- **Nickname**: Marechal Dev, Marechal or Marshall
+- **Nickname**: Pi (just like the mathematical constant), Marechal Dev, Marechal or Marshall
 - **23 years old**
 - **Based in**: Brazil
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
 - **Education**:
   - Graduated with an [Information Systems Bachelor's of Science Degree from FURG](https://www.furg.br/en/undergraduate-studies/information-system)
-  - On the 2nd Semester of my [Software Engineering Professional Master's Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
+  - On the 3rd Semester of my [Software Engineering Professional Master's Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
     <!-- - On the 1st Semester of my [Computer Science PhD Degree at UFRGS](https://www.inf.ufrgs.br/ppgc/en/doctorate) -->
     <!-- - [GoExpert Professional Specialization at FullCycle](https://goexpert.fullcycle.com.br/pos-goexpert/) -->
-    <!-- - [Specialization on .NET Systems Architecture with Azure at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) -->
+    <!-- - [.NET Systems Architecture with Azure Professional Specialization at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) -->
     <!-- - [FullCycle Architecture MBA at FullCycle](https://mba.fullcycle.com.br/mba/) -->
 
 ### ✨ Curiosities about me
@@ -27,9 +27,9 @@
 ### 📢 We can talk about
 
 - 🔟 Computer Science
+- 🌐 Distributed Systems
 - 🌐 Computer Networks
 - 🔐 Computer Networks Security
-- 🌐 Distributed Systems
 - ⚙ Software Engineering
 - 🏗 Software Architecture
 - ⚙ Back-End Development
